@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a software engineer with a Master's degree in Computer Science from NTNU, with specialization in AI 🦾
+I'm a software engineer with a strong interest in AI 🦾
+
+🎓 I have a Master's degree in Computer Science from NTNU, with specialization in AI 
 
 <!--
 **AnmolS99/AnmolS99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
