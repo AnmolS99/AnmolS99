@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer with a strong interest in AI 🦾
+I'm a software engineer at Itera with a strong interest in AI 🦾
 
 🎓 I have a Master's degree in Computer Science from NTNU, with specialization in AI 
 
