@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a software engineer at Itera with a strong interest in AI 🦾
+I'm a software engineer at Noteless with a strong interest in AI 🦾
 
 - 🎓 I have a Master's degree in Computer Science from NTNU, with specialization in AI
-- ♟ I'm currently working on my chess bot, which you can challenge on [lichess](https://lichess.org/@/AnmolS99)!
+- ♟ I've been working on my chess bot, which you can challenge on [lichess](https://lichess.org/@/AnmolS99)!
 
 <!--
 **AnmolS99/AnmolS99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
