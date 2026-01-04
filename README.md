@@ -4,7 +4,7 @@ I'm a software engineer at Noteless with a strong interest in AI 🦾
 
 - 🎓 I have a Master's degree in Computer Science from NTNU, with specialization in AI.
 - ♟ I've been working on my chess bot, which you can challenge on [lichess](https://lichess.org/@/AnmolS99)!
-- ✍️ I sometimes write technical posts on my [blog](https://anmols.bearblog.dev/). My latest post explains how [multithreading and multiprocessing work in Python](https://anmols.bearblog.dev/understanding-multithreading-and-multiprocessing-in-python/).
+- ✍️ I sometimes write technical posts on my [blog](https://anmols.bearblog.dev/). My latest post explains [multithreading and multiprocessing in Python](https://anmols.bearblog.dev/understanding-multithreading-and-multiprocessing-in-python/).
 
 <!--
 **AnmolS99/AnmolS99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
